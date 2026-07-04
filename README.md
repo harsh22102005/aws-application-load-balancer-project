@@ -32,6 +32,22 @@ EC2 Instances (Web Server 1, Web Server 2, ...)
 
 ## 📷 Screenshots
 Screenshots are available in the `screenshots` folder.
+## 📸 Project Screenshots
+
+### EC2 Instances
+![EC2 Instances](screenshots/ec2-instances.png)
+
+### Load Balancer
+![Load Balancer](screenshots/load-balancer.png)
+
+### Target Group
+![Target Group](screenshots/target-groups.png)
+
+### Web Server 1
+![Web Server 1](screenshots/web-server-1.png)
+
+### Web Server 2
+![Web Server 2](screenshots/web-server-2.png)
 
 ## 👨‍💻 Author
 Harsh Pratap Singh
